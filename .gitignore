@@ -1,0 +1,24 @@
+﻿# STM32 Keil build outputs
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.iex
+*.sct
+*.lst
+*.map
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+
+
+# Objects directory
+balance_car/balance_car/Objects/
+
+# Visual Studio
+.vs/
